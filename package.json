@@ -1,0 +1,21 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": "Nick Hawkins <nhawkins@alumni.stanford.edu>",
+  "scripts": {
+    "clean": "rm -rf ./dist",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "A place to play around with TypeScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick-writes-code/typescript-learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nick-writes-code/typescript-learning/issues"
+  },
+  "homepage": "https://github.com/nick-writes-code/typescript-learning#readme"
+}
